@@ -1,16 +1,9 @@
 # health_app
 
-A new Flutter project.
+This is a trial app for data visualisation of step count to test the Flask and Flutter interaction. The bar chart of daily step counts over the previous week, as well as the overall distance walked and calories burnt are displayed. 
 
-## Getting Started
+## Run the code
 
-This project is a starting point for a Flutter application.
+To run the code, first run the app.py followed by running the main.dart file in the lib folder.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
